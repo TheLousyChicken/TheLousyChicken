@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is Aaditya, and i'm a student / game dev who knows C#, C, TS, Java, Python, and am currently 🌱 learning front-end (🌐 HTML, CSS, and JS), My Pronouns are He/Him👨
+# My name is Aaditya, and i'm a student / game dev who knows C#, C, TS, Java, and Python. My Pronouns are He/Him👨
 ## 🏆 My Projects:
 # 🔭TerraLunatic • an Open-world Space based Sandbox/Adventure Survival Game made with the Unity Engine
 
